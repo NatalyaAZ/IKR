@@ -18,5 +18,3 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
-
-![image](https://github.com/NatalyaAZ/IKR/assets/149613743/e19dcad1-e505-421f-9fdc-122cae702b77)
